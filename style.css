@@ -1,0 +1,76 @@
+body{
+    background-color: lightpink;
+    font-family: 'Special Elite';
+}
+
+.hd{
+    background: white;
+    color: red;
+}
+
+.hd img{
+    width: 100px;
+}
+
+.md{
+    background: pink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid color white;
+}
+
+.md label{
+background: white;
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px white;
+}
+
+.md button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+#cam{
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+    border: 2px solid white;
+}
+
+#result{
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+    border: 2px solid white;
+}
+
+.fb{
+    margin-bottom: 50px;
+}
+
+.fb h4{
+    background: white;
+    border-radius: 10px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+}
+
+.fb img{
+    width: 70px;
+    left: 0;
+}
+
+.something{
+    width: 100%;
+    background-color: white;
+    color:black;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+}
